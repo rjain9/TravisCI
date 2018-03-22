@@ -13,7 +13,7 @@
 It is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub.
 
 ### What are its functionalities?
-* Build artefacts
+* Build artifacts
 * Run Tests
 * Provide feedback
 * Deploy to cloud services
@@ -26,6 +26,8 @@ It is a hosted, distributed continuous integration service used to build and tes
   * Variety of collection of plugins
   * Free to use for public project
   * Easy for customization
+  * Hosts internal databases (including `MySQL`, `MongoDB`)
+  * Easy to use
 * **Cons:**
   * No manual builds
   * No build pipelines
@@ -36,7 +38,7 @@ It is a hosted, distributed continuous integration service used to build and tes
 ![Other CI tools](img/ci_tools.png)
 
 ### Our view on Travis CI
-
+We like it as it communicates well with `GitHub`. It is very simple to use and does not involve the work of managing packages and plugins as it might be the case in other CI tools like `Jenkins`.
 
 ### Setup Instructions
 * Create a new GitHub repository or clone it from remote
