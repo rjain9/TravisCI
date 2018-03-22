@@ -6,7 +6,7 @@
 * Omkar Acharya (oachary)
 * Urmil Parikh (uparikh)
 
-## [Presentation Slides](docs/slides.pptx) | [Demo Screencast](https://youtu.be/EZ3jbORVFHQ) | [Demo Code](https://github.com/rjain9/TravisCI/tree/demo)
+## [Presentation Slides](docs/slides.pdf) | [Demo Screencast](https://youtu.be/EZ3jbORVFHQ) | [Demo Code](https://github.com/rjain9/TravisCI/tree/demo)
 
 ## Introduction
 ### What is Travis CI?
